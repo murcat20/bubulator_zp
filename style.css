@@ -1,0 +1,11 @@
+p {
+    color: darkgray;
+    font-size: 30px;
+}
+body {
+    background-color: antiquewhite;
+}
+button {
+    width:300px;
+    height: 70px;
+}
